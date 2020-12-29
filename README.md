@@ -1,5 +1,5 @@
 # node-sudoku
-Providies NodeJS applications the ability to asynchronously solve Sudoku puzzles, as well as helpful abstraction classes.
+Enables NodeJS applications to asynchronously solve Sudoku puzzles, in addition to providing helpful Sudoku-related classes.
 
 ## Installation
 Install from the latest `master` branch commit by running this command in your project directory:
