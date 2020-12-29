@@ -1,0 +1,25 @@
+{
+  "name": "node-sudoku",
+  "version": "1.0.0",
+  "description": "A set of classes and methods that enable the representation and solving of standard sudoku puzzles",
+  "main": "sudoku-solver.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "Sean F Quinn",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esqew/node-sudoku.git"
+  },
+  "keywords": [
+    "sudoku"
+  ],
+  "bugs": {
+    "url": "https://github.com/esqew/node-sudoku/issues"
+  },
+  "homepage": "https://github.com/esqew/node-sudoku#readme"
+}
