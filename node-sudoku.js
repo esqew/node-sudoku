@@ -26,10 +26,6 @@ class SudokuBoard {
         return SudokuBoard.fromArrayOfValues([5, 3, 4, null, null, 8, null, 1, null, null, null, null, null, null, 2, null, 9, null, null, null, null, null, null, 7, 6, null, 4, null, null, null, 5, null, null, 1, null, null, 1, null, null, null, null, null, null, null, 3, null, null, 9, null, null, 1, null, null, null, 3, null, 5, 4, null, null, null, null, null, null, 8, null, 2, null, null, null, null, null, null, 6, null, 7, null, null, 3, 8, 2]);
     }
 
-    static fromJSONString(jsonString) {
-        throw new SyntaxError(`fromJSONString not yet implemented`)
-    }
-
     cellAtPosition(position) {
         return this.cellAtIndex(position - 1)
     }

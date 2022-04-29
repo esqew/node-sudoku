@@ -1,8 +1,8 @@
 {
   "name": "node-sudoku",
-  "version": "1.0.0",
-  "description": "A set of classes and methods that enable the representation and solving of standard sudoku puzzles",
-  "main": "sudoku-solver.js",
+  "version": "1.0.1",
+  "description": "abstractions for representing and solving sudoku puzzles in JavaScript",
+  "main": "node-sudoku.js",
   "directories": {
     "test": "test"
   },
